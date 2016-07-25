@@ -5,3 +5,5 @@ If you want to edit or add your language,it's pretty easy.
 (Ex) "Login"="Login" (English version).
 You just edit the Login on right hand side. i.e "Login"="Your Translation Strings";
 Other Languages are on the way !!
+
+Any assistance,dont hesitate to contact me:sathishkumar subramaniyan.
