@@ -1,4 +1,4 @@
-" Login"=" Login ";
+" Login"=" Login";
 "...For Family Reunification"="...For Family Reunification";
 " Change Event "=" Change Event ";
 "Selected Event"="Selected Event";
@@ -13,8 +13,8 @@
 "Updated at %@ (%@)"="Updated at %@ (%@)";
 "Just Now"="Just Now";
 "About"="About";
-"%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health.";
-"%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS).";
+"%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@Â® is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health.";
+"%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@Â®, and the LOST PERSON FINDERÂ® Design are trademarks of the U.S. Department of Health & Human Services (HHS).";
 "Privacy"="Privacy";
 "Burden"="Burden";
 "Burden Statement: %@"="Burden Statement: %@";
@@ -26,7 +26,7 @@
 "STRING_BURDEN_STATEMENT"="Public reporting burden for this collection of information is estimated to average 3 minutes per response. This estimate includes the time for reviewing instructions, gathering, and entering  data. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to: NIH, Project Clearance Branch, 6705 Rockledge Drive, MSC 7974, Bethesda, MD 20892-7974, ATTN: PRA (0925-0612). Do not return the completed form to this address";
 "Burden & Privacy"="Burden & Privacy";
 "Burden Statement"="Burden Statement";
-"STRING_PRIVACY_STATEMENT"="The U.S. National Library of Medicine (NLM), part of the U.S. Department of Health and Human Services, has in its mission the development of communication systems technology to improve the delivery of health information. The Reunite app is designed to speed uploading necessary personal information about missing (and found) people to NLM's People Locator (PL) service available at https://pl.nlm.nih.gov. This service being provided for the explicit purpose of assisting in post-disaster family reunification as well as studying the utility of such tools in responding to disasters. More information on the PL service and the Lost Person Finder Project can be found at http://lpf.nlm.nih.govnnNote: n  • Submission of information using this app is voluntary.n  • All submitted information may be made publicly available.n  • Data stored using this tool may not be moderated and could be searchable by all visitors to NLM's PL Web site.n  • Data stored within the app is not encrypted at this time.n  • The user of this app must have a PL service account to upload information about missing or found people.n  • No PL login is necessary to search the site.n  • Information reported on an individual and sender’s provided contact information may be disseminated to other Government agencies or other institutions assisting the reunification efforts after any disaster where U.S. Government relief efforts are being provided.n  • For missing person data provided following a disaster: If you hear from the person you are concerned about, please follow instructions at the PL Web Site to update their status.n  • The application does not track user locationn  • User location is detected on explicit user action to aid address lookup";
+"STRING_PRIVACY_STATEMENT"="The U.S. National Library of Medicine (NLM), part of the U.S. Department of Health and Human Services, has in its mission the development of communication systems technology to improve the delivery of health information. The Reunite app is designed to speed uploading necessary personal information about missing (and found) people to NLM's People Locator (PL) service available at https://pl.nlm.nih.gov. This service being provided for the explicit purpose of assisting in post-disaster family reunification as well as studying the utility of such tools in responding to disasters. More information on the PL service and the Lost Person Finder Project can be found at http://lpf.nlm.nih.gov\n\nNote: \n  â€¢ Submission of information using this app is voluntary.\n  â€¢ All submitted information may be made publicly available.\n  â€¢ Data stored using this tool may not be moderated and could be searchable by all visitors to NLM's PL Web site.\n  â€¢ Data stored within the app is not encrypted at this time.\n  â€¢ The user of this app must have a PL service account to upload information about missing or found people.\n  â€¢ No PL login is necessary to search the site.\n  â€¢ Information reported on an individual and senderâ€™s provided contact information may be disseminated to other Government agencies or other institutions assisting the reunification efforts after any disaster where U.S. Government relief efforts are being provided.\n  â€¢ For missing person data provided following a disaster: If you hear from the person you are concerned about, please follow instructions at the PL Web Site to update their status.\n  â€¢ The application does not track user location\n  â€¢ User location is detected on explicit user action to aid address lookup";
 "Review This App"="Review This App";
 "GLOBAL_KEY_SETTINGS_FACE_DETECTION" ="Face Detection";
 "GLOBAL_KEY_SETTINGS_AUTO_UPLOAD" ="Auto Upload";
@@ -148,7 +148,7 @@
 "Remove from server"="Remove from server";
 "Delete record"="Delete record";
 "KEY_AGE_MAXIMUM"="Maximum Age";
-"KEY_AGE_MINIMUM"="Minimum Age";
+"KEY_AGE_MINIMUM"="Approximate Age";
 "KEY_GENDER"="Gender";
 "KEY_FAMILY_NAME"="Family Name";
 "KEY_GIVEN_NAME"="Given Name";
@@ -165,7 +165,7 @@
 "Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services"="Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services";
 "Looking up the address..."="Looking up the address...";
 "Address Not Found"="Address Not Found";
-"Would you like to save the earlier report as a draft? Drafts are accessible by tapping the "Draft" tab at the bottom of the screen."="Would you like to save the earlier report as a draft? Drafts are accessible by tapping the "Draft" tab at the bottom of the screen.";
+"Would you like to save the earlier report as a draft? Drafts are accessible by tapping the \"Draft\" tab at the bottom of the screen."="Would you like to save the earlier report as a draft? Drafts are accessible by tapping the \"Draft\" tab at the bottom of the screen.";
 "Yes"="Yes";
 "Select Action"="Select Action";
 "Remove"="Remove";
@@ -176,7 +176,7 @@
 "Not Found"="Not Found";
 "Unable to locate the coordinates with the given address"="Unable to locate the coordinates with the given address";
 "Empty Address"="Empty Address";
-"Please fill the address with full or partial information, in order to obtain the possible GPS coordinates."="Please fill the address with full or partial information, in order to obtain the possible GPS coordinates.";
+"Please fill the address with full or partial infomation, in order to obtain the possible GPS coordinates."="Please fill the address with full or partial infomation, in order to obtain the possible GPS coordinates.";
 "Unpinned Map"="Unpinned Map";
 "Please long press the map to drop a pin on the desire location, in order to obtain the address."="Please long press the map to drop a pin on the desire location, in order to obtain the address.";
 "Locating your location..."="Locating your location...";
@@ -203,6 +203,7 @@
 "Empty Username Field"="Empty Username Field";
 "Empty Password Field"="Empty Password Field";
 "Try Again"="Try Again";
+"Agree"="Agree";
 "Logging In..."="Logging In...";
 "Logging Out..."="Logging Out...";
 "You are now logged in as %@"="You are now logged in as %@";
@@ -215,7 +216,7 @@
 "Forgot Password"="Forgot Password";
 " Logged in as %@"=" Logged in as %@";
 " Login"=" Login";
-"STRING_PASSWORD_GUIDE"="STRING_PASSWORD_GUIDE";
+"STRING_PASSWORD_GUIDE"="Passwords must adhere to the following rules :\n1. The minimum length of the password is 8 characters.\n2. The maximum length of the password is 16 characters.\n3. Must have at least one uppercase character.\n4. Must have at least one lowercase character.\n5. Must have at least one numeral (0-9).\n6. The password cannot contain your username.";
 "USER INFORMATION"="USER INFORMATION";
 "First Name"="First Name";
 "Last Name"="Last Name";
