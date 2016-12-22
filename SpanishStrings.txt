@@ -4,7 +4,6 @@
 "Selected Event"="Evento Seleccionado";
 " Began On"=" Inició en";
 " Location"=" Localización";
-//" Updated at"=" Actualizado en";
 " Server Address"=" Dirección del Servidor";
 " Status"=" Status";
 " Latency"=" Latencia";
