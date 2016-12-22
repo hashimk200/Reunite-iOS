@@ -115,7 +115,6 @@
 "No Comments Available"="コメントが利用出来ません";
 "COMMENT (%i)"="___NotYet___";
 "MapRow"="___NotYet___";
-
 "Unable to verify the address"="住所を確認出来ません。";
 "Options"="オプション";
 "Cancel"="キャンセル";
@@ -132,7 +131,6 @@
 "Satellite"="衛星";
 "Hybrid"="ハイブリッド";
 "IMAGE"="___NotYet___";
-
 "The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="インターネット接続が復活したときにサーバーにアップロードされるように、そのレコードはoutboxに保存されました。";
 "Fetching the latest record.."="___NotYet___";
 "GPS reported by the user"="GPS reported by the user";
