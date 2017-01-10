@@ -281,3 +281,7 @@
 "The record has been deleted"="そのレコードは削除されました";
 "Successfully Deleted"="削除成功";
 "Save draft"="ドラフト保存";
+"NSCameraUsageDescription"="Reuniteは”カメラ”にアクセスしたがっています";
+"NSLocationAlwaysUsageDescription"="あなたの位置情報を用います";
+"NSLocationWhenInUseUsageDescription"="あなたの位置情報を用います";
+"NSPhotoLibraryUsageDescription"="Reuniteは写真にアクセスしたがっています";
