@@ -282,3 +282,7 @@
 "The record has been deleted"="The record has been deleted";
 "Successfully Deleted"="Successfully Deleted";
 "Save draft"="Save draft";
+"NSCameraUsageDescription"="Reunite would like to access Camera";
+"NSLocationAlwaysUsageDescription"="We use your Location";
+"NSLocationWhenInUseUsageDescription"="We use your Location";
+"NSPhotoLibraryUsageDescription"="Reunite would like to access Photo";
