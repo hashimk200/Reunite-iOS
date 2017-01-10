@@ -1,9 +1,5 @@
 # Reunite-iOS
-English and Spanish (Done by Laritza and victor) are the final one.It should be available Reunite 6.4 Release.
-Japan strings are done by Dr.Tatsumi.But not yet completed.
-If you want to edit or add your language,it's pretty easy.
-(Ex) "Login"="Login" (English version).
-You just edit the Login on right hand side. i.e "Login"="Your Translation Strings";
+English,Spanish (Done by Laritza and victor),Japenese (Dr.Tatsumi) are done.It is  available in latest Reunite 6.5 Release.
 Other Languages are on the way !!
-
-Any assistance,don't hesitate to contact me:sathishkumar subramaniyan.
+Some new strings will be added in all languages,Translators need to do translation.
+Any assistance,don't hesitate to contact me:sathish.
