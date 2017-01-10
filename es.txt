@@ -288,3 +288,7 @@
 "The record has been deleted"="el registro se ha suprimido";
 "Successfully Deleted"="Se han eliminado las";
 "Save draft"="Guardar borrador";
+"NSCameraUsageDescription"="ReUnite requiere acceso a la camara";
+"NSLocationAlwaysUsageDescription"=" Estamos usando su ubicacion";
+"NSLocationWhenInUseUsageDescription"=" Estamos usando su ubicacion";
+"NSPhotoLibraryUsageDescription"="ReUnite require acceso a las fotos";
