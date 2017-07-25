@@ -6,7 +6,7 @@
 " Location"=" 位置";
 " Server Address"=" サーバアドレス";
 " Status"=" 状態";
-" Latency"=" ずれ";
+" Latency"=" 潜在";
 " Find"=" 発見";
 " Report"=" 報告";
 "Not Available"="利用できません";
@@ -38,7 +38,7 @@
 "Allow app to highlight faces on photos"="写真の顔にハイライトする許可を与えてください";
 "Allow app to automatically upload reports from its outbox"="送信ボックスから報告が自動的にアップロードできるように許可を与えて下さい";
 "SAVE ON DEVICE"="デバイスに保存";
-"Allow app to save and reuse selected fields"="選んだフィールドを再利用できるように許可を与えて下さい";
+"Allow app to save and reuse selected fields"="選んだフィールドを保存再利用できるように許可を与えて下さい";
 "ALERTS"="警告";
 "Alerts for special situation"="特殊な状況についての警告";
 "Social Hub"="ソーシャルハブ";
@@ -47,13 +47,13 @@
 "Pull To Search"="ドラッグして検索";
 "Adjust Filters"="フィルターを調整";
 "New Report"="新しい報告";
-"Saved"="保存されました";
+"Saved"="保存した";
 "Outbox"="送信ボックス";
 "Sent"="送信";
-"Draft"="ドラフト";
-"Sort By"="ソート方式";
+"Draft"="下書き";
+"Sort By"="並べ替える";
 "All Events"="全てのイベント";
-"ITEM SORTING"="項目ソート";
+"ITEM SORTING"="アイテムの並べ替え";
 "Order"="順番";
 "Ascending"="昇り順";
 "Descending"="降り順";
@@ -81,8 +81,8 @@
 "Adult"="大人";
 "Child"="子供";
 "Contains Image"="イメージを含んでいます";
-"Records per Request"="リクエスト毎のレコード";
-"Exact term"="完全な一致文字";
+"Records per Request"="リクエスト毎に記録";
+"Exact term"="正確な用語";
 "Only display result matching the exact search term"="単語の完全一致したものだけの表示";
 "%i Results Found"="%i 件：見つかりました";
 "Loading..."="ローディング";
@@ -96,7 +96,7 @@
 "Camera"="カメラ";
 "Gallery"="ギャラリー";
 "no face detected"="類似の顔写真なし";
-"Please move rectangle to highlight the person to report"="報告したい人の顔を四角い枠を動かして囲ってください";
+"Please move rectangle to highlight the person to report"="報告したい人の顔を四角い枠を動かしてください";
 "Do not show again"="再表示は不要です";
 "Please identify person to report"="報告したい人を同定してください";
 "Locate The Face"="顔を示してください";
@@ -141,7 +141,7 @@
 "Saved"="保存されました";
 "The record is added onto your device. To view, tap Report from the Home screen."="そのレコードはあなたのデバイスに付け加えられました。見るためには、ホームスクリーンから報告をタップしてください";
 "Thank you for your report"="報告ありがとうございました。";
-"Please enter the reason"="その理由を入力してください";
+"Please enter the reason"="理由を入力してください";
 "Record removed"="レコードは削除されました";
 "If you reported the person, you may delete it from the %@ server."="もし、その人を報告したら、%@サーバからそれを削除ことになるかもしれません。";
 "No"="いいえ";
