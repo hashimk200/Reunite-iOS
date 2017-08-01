@@ -311,6 +311,6 @@
 "Unknown name"="Unknown name";
 ": Online"=": Online";
 ": Offline"=": Offline";
-"Unable to Activate"="Unable to Activate";
+"Unable to Activate"="Unable to Activate 1";
 "This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera";
 
